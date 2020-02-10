@@ -14,7 +14,8 @@ namespace ConsoleTest
             int i = Console.Read();
             if (i > 0)
             {
-                
+                 //aaaaa
+                 //测试
             }
         }
     }
